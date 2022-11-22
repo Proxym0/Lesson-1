@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c262930-8597-4f1a-bbd9-9c003ef27367" name="Changes" comment="заигнорить2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lesson1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branchLesson1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2HoDcL29bloSgY2D1Cm4ugzkUUR" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/TeachMeSkils/Lesson-1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c262930-8597-4f1a-bbd9-9c003ef27367" name="Changes" comment="" />
+      <created>1668942620427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668942620427</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add a new fail">
+      <created>1668943370376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668943370376</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add a new fail correct">
+      <created>1668943656956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668943656956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ignore idea">
+      <created>1668944299772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668944299772</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ignore idea">
+      <created>1668944443196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668944443196</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ignore idea2">
+      <created>1668945344995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668945344995</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change 1">
+      <created>1668946152858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668946152858</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add2">
+      <created>1668946342677</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668946342677</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add2 change1">
+      <created>1668946423255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668946423255</updated>
+    </task>
+    <task id="LOCAL-00009" summary="idea change2">
+      <created>1668947031356</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668947031356</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ideaout change2">
+      <created>1668947068202</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668947068202</updated>
+    </task>
+    <task id="LOCAL-00011" summary="branchLesson1">
+      <created>1668947344917</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668947344917</updated>
+    </task>
+    <task id="LOCAL-00012" summary="change3">
+      <created>1668947511268</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668947511268</updated>
+    </task>
+    <task id="LOCAL-00013" summary="change1 in branchLesson1">
+      <created>1668947732569</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668947732569</updated>
+    </task>
+    <task id="LOCAL-00014" summary="change2 in branchLesson1">
+      <created>1668947815699</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668947815699</updated>
+    </task>
+    <task id="LOCAL-00015" summary="change2 in main">
+      <created>1668947869181</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668947869181</updated>
+    </task>
+    <task id="LOCAL-00016" summary="change3 in main">
+      <created>1668947897872</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668947897872</updated>
+    </task>
+    <task id="LOCAL-00017" summary="заигнорить">
+      <created>1669132575254</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669132575254</updated>
+    </task>
+    <task id="LOCAL-00018" summary="заигнорить2">
+      <created>1669132613350</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1669132613350</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add a new fail" />
+    <MESSAGE value="add a new fail correct" />
+    <MESSAGE value="ignore idea" />
+    <MESSAGE value="ignore idea2" />
+    <MESSAGE value="change 1" />
+    <MESSAGE value="add2" />
+    <MESSAGE value="add2 change1" />
+    <MESSAGE value="idea change2" />
+    <MESSAGE value="ideaout change2" />
+    <MESSAGE value="branchLesson1" />
+    <MESSAGE value="change3" />
+    <MESSAGE value="change1 in branchLesson1" />
+    <MESSAGE value="change2 in branchLesson1" />
+    <MESSAGE value="change2 in main" />
+    <MESSAGE value="change3 in main" />
+    <MESSAGE value="заигнорить" />
+    <MESSAGE value="заигнорить2" />
+    <option name="LAST_COMMIT_MESSAGE" value="заигнорить2" />
+  </component>
+</project>
